@@ -11,129 +11,159 @@
 # FIXME: Add the option for just having comments that are not attached to a card, like this =)
 
 # FIXME: Add an emacs mode which:
-# - 
+# -
 
+uuid 5196b34a-8502-449d-a13f-20050848960c
 gr φτερωτός
 en winged
 pos adj
 
+uuid 509ae6b8-c0c3-41bf-b3bd-2d8cdd51d7ce
 gr τα υψώματα
 en heights
 pos n
 
+uuid c98c7547-d1ed-49fe-8c4b-6691b472347b
 gr η ευλάβεια
 en reverence
 pos n
 
+uuid 93ece331-a1a5-4d98-b9af-9462e9872bdd
 gr ο σεβασμός
 en reverence
 pos n
 
+uuid 57d56046-7b82-4406-9846-487272aa0d4a
 gr αυθόρμητα
 en spontaneously
 pos adv
 
+uuid 4994f0e4-d8ab-4012-8c7d-eee5837cbade
 gr η συνέπεια
 en consequence
 pos n
 
+uuid 305607a4-ce9b-46d0-8e42-608dc27b88ef
 gr αλέθω
 en to grind
 pos v
 
+uuid bea2320d-c59c-49c8-b87a-bdca8037fed8
 gr προξενώ
 en to cause
 pos v
 
+uuid f437643e-7b45-4a32-8c51-97916d95e910
 gr το προξενιό
 en matchmaking
 pos n
 
+uuid ca08ddc2-d6ee-43c6-a90d-40e404246f76
 gr ανταλλάζω
 en to exchange
 pos v
 
+uuid 897de161-aaaa-4393-8d16-b43f0868a97d
 gr το πείραγμα
 en banter
 pos n
 
+uuid 3d8cbba9-e604-47b5-92fa-97dd0becbca4
 gr το εργόχειρο
 en handiwork
 pos n
 
+uuid 3593dc63-f0b4-4993-bf18-62c1a4ccbf49
 gr καταφεύγω, καταφεύγω σε (κάτι)
 en to take shelter, to resort to (something)
 pos v
 
+uuid bcd4724c-84da-4d7d-8d53-a4fd8938330a
 gr συγκρίνω
 en to compare
 pos v
 
+uuid 7170581f-534f-46d8-b70b-d443488b8777
 gr η σύγριση
 en comparison
 pos n
 
+uuid dda24f74-6e15-42c3-9d65-bd7f0abfc63d
 gr η καταιγίδα
 en storm
 
+uuid 5a379948-b203-4207-9d93-b5a217ef1222
 gr ανεμόδαρτος
 en wind-battered
 pos adj
 
+uuid 76fd8916-2515-4994-841d-f386cd6f63ba
 gr ο ανεμόμυλος
 en windmill
 pos n
 
+uuid a8596923-9bc5-4908-bff4-23acfd44ca15
 gr ο μυλωνός
 en windmill owner
 pos n
 
+uuid d324252f-d2eb-48ae-baf5-fccc1ed3016e
 gr ανεμίζω
 en to wave (in the wind)
 pos v
 
+uuid df06b8d5-1d72-4f6f-8530-97e09ed56099
 gr ξεγνοιάζω
 en to be free of stress
 pos v
 
+uuid ac638e45-85df-455d-b91b-ee489a94fc84
 gr η κακοκαιρία
 en bad weather
 pos n
 
+uuid b9b3cf30-81bc-4fe1-a66c-a2b7a8083068
 gr το πλήρωμα
 en crew
 pos n
 
+uuid 5936cdf3-0a18-4bc9-8331-cbd2cc71b7a4
 gr η συμπαράσταση
 en support
 pos n
 
+uuid f1945760-907e-49de-b359-e88a8b3f8767
 gr η πτώση
 en case (grammatical)
 pos n
 
+uuid e069767d-1657-4657-8d4f-bb9be06851f9
 gr κτητικός
 en possessive case
 pos adj
 
+uuid 8d7c825d-379e-4a88-92a8-ae262d521e07
 gr παραδίνω
 en to hand down
 pos v
 
+uuid 7e2fb67c-ed6c-4da7-acc7-86fd2d02c4ab
 gr προσαρμάζομαι
 en to adapt, to fit in
 pos v
 
+uuid f77ca0ac-0f59-4890-86ae-4a8ef045a2b5
 gr επενδύω
 en to invest
 pos v
 # link n en investment ??
 
+uuid a175fbd2-7424-4143-9c9c-c9e0365b7086
 gr η επένδυση
 en investment
 pos n
 
+uuid a306a30c-50e8-440d-aff7-a48cc6b2adc1
 gr πολυδάπανος
 en extravagant
 pos adj
-
