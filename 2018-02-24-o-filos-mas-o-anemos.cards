@@ -1,0 +1,139 @@
+# FIXME: Extend mathema to permit "alternatives" like this one
+# - typing *either* `to adapt` *or* `to fit in` suffices
+# - we show them both
+
+# FIXME: Extend mathema with `pos` line
+
+# FIXME: Add some kind of `mathema prep` command which
+# - does not *really* add, but checks for duplicates
+# - transliterates
+
+# FIXME: Add the option for just having comments that are not attached to a card, like this =)
+
+# FIXME: Add an emacs mode which:
+# - 
+
+gr φτερωτός
+en winged
+pos adj
+
+gr τα υψώματα
+en heights
+pos n
+
+gr η ευλάβεια
+en reverence
+pos n
+
+gr ο σεβασμός
+en reverence
+pos n
+
+gr αυθόρμητα
+en spontaneously
+pos adv
+
+gr η συνέπεια
+en consequence
+pos n
+
+gr αλέθω
+en to grind
+pos v
+
+gr προξενώ
+en to cause
+pos v
+
+gr το προξενιό
+en matchmaking
+pos n
+
+gr ανταλλάζω
+en to exchange
+pos v
+
+gr το πείραγμα
+en banter
+pos n
+
+gr το εργόχειρο
+en handiwork
+pos n
+
+gr καταφεύγω, καταφεύγω σε (κάτι)
+en to take shelter, to resort to (something)
+pos v
+
+gr συγκρίνω
+en to compare
+pos v
+
+gr η σύγριση
+en comparison
+pos n
+
+gr η καταιγίδα
+en storm
+
+gr ανεμόδαρτος
+en wind-battered
+pos adj
+
+gr ο ανεμόμυλος
+en windmill
+pos n
+
+gr ο μυλωνός
+en windmill owner
+pos n
+
+gr ανεμίζω
+en to wave (in the wind)
+pos v
+
+gr ξεγνοιάζω
+en to be free of stress
+pos v
+
+gr η κακοκαιρία
+en bad weather
+pos n
+
+gr το πλήρωμα
+en crew
+pos n
+
+gr η συμπαράσταση
+en support
+pos n
+
+gr η πτώση
+en case (grammatical)
+pos n
+
+gr κτητικός
+en possessive case
+pos adj
+
+gr παραδίνω
+en to hand down
+pos v
+
+gr προσαρμάζομαι
+en to adapt, to fit in
+pos v
+
+gr επενδύω
+en to invest
+pos v
+# link n en investment ??
+
+gr η επένδυση
+en investment
+pos n
+
+gr πολυδάπανος
+en extravagant
+pos adj
+
