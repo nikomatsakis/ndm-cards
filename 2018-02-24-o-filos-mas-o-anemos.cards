@@ -1,17 +1,6 @@
-# FIXME: Extend mathema to permit "alternatives" like this one
-# - typing *either* `to adapt` *or* `to fit in` suffices
-# - we show them both
-
-# FIXME: Extend mathema with `pos` line
-
 # FIXME: Add some kind of `mathema prep` command which
 # - does not *really* add, but checks for duplicates
 # - transliterates
-
-# FIXME: Add the option for just having comments that are not attached to a card, like this =)
-
-# FIXME: Add an emacs mode which:
-# -
 
 uuid 5196b34a-8502-449d-a13f-20050848960c
 gr φτερωτός
