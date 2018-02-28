@@ -1,0 +1,67 @@
+uuid 4764e244-ff66-4264-917b-eb2e85cd18fa
+en railing
+gr η κουπαστή
+pos n
+
+uuid 7d471aff-101a-4cbb-af2d-e8863d1bbe24
+en stairs
+gr οι σκάλες
+pos n
+
+uuid 54e4c6b7-5389-4803-96e7-cdecc2e8a8fc
+en to rev (engine)
+gr γαζώνω
+pos v
+
+uuid 0403582d-be6e-4924-ba87-3d064ada6c6e
+en bridge
+gr η γέφυρα
+pos n
+
+uuid 2d58edb4-bbdb-489a-8bee-514fed7f3ee1
+en adult
+gr ενήλικος
+pos adj
+
+uuid 5a048a8c-ef64-49b8-a8d4-60723121171b
+en feeling
+gr το συναίσθημα
+pos n
+
+# θερμό επισόδιο
+
+uuid c726416b-6848-46e2-9f12-2c56ac9a4f66
+en to collide
+gr συγκρούομαι
+# αόριστος συγκρούστηκα (με)
+pos v
+
+uuid 02ff6cb7-c902-45ae-ac16-5c5882a86f95
+en collision
+gr η σύγκρουση
+pos n
+
+uuid 11ec389e-24fc-4a33-900a-03d3e33e7c02
+en to crash
+gr τρακάρω
+pos v
+
+uuid ecdcb6de-3cfc-449e-8448-c9fc1c00978d
+en stem (grammatical)
+gr το θέμα
+pos n
+
+uuid 0b0e6fb7-81b7-4278-912e-4db3b5286a38
+en to abase
+gr ξεφτιλίζω
+pos v
+
+uuid e4a6a4f3-5678-4e23-bde2-49772dc7ca0a
+en complaint
+gr το παράπονο
+pos n
+
+uuid 6fb98b80-d71c-4575-bdf8-0e1a3fbfe6b7
+en teenager
+gr ο έφηβος
+pos n
