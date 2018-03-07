@@ -1,0 +1,101 @@
+uuid 56199a66-0a1a-4b77-aef1-e36c1581a521
+en elbow
+gr ο αγκώνας
+pos n
+
+uuid 6941adb2-08dd-436c-8b6d-ee4dc0aacd09
+en left-handed
+gr αριστόχειρας
+pos adj
+
+uuid 4d7a5fcb-1f1c-4817-b995-502e24c5ad92
+en right-handed
+gr δεξιόχειρας
+pos adj
+
+uuid 1db471c1-e6ee-4d80-ac87-15a659fcce5b
+en teenage years
+gr η εγηβεία
+pos n
+
+uuid c1c4dcea-3037-43b8-8042-04069423bb2f
+en excluding
+gr εξαιρούνται
+pos phrase
+
+uuid 9fa3cf88-6343-43d9-820f-153ccb345194
+en to sum up
+gr αθροίζω
+pos v
+
+uuid c1514da9-bf0f-4372-bb92-e6f263acda1f
+en to swell
+gr πρήζω
+αόριστος έπρηξα
+pos v
+
+uuid 568136f2-21e4-4f4e-bd48-a09e9c280879
+en spy
+gr κατάσκοπος
+pos n
+
+uuid c23409be-8d3e-4c97-924e-53786b0503a5
+en asylum
+gr το άσυλο
+pos n
+
+uuid 894ff44a-613c-4012-85c8-a619d3d44c05
+en procedure
+gr η διαδικασία
+pos n
+
+uuid f611f2f1-eae2-4679-bfbb-31267b5ab906
+en to provoke
+gr προκαλώ
+pos v
+
+uuid 4abf1e31-b963-4501-a480-0fe0c5ddd89f
+en illegal
+gr παράνομος
+pos adj
+
+uuid e156408a-29ea-4ad7-9132-bd5c2bee8fb2
+en export
+gr η εξαγωγή
+pos n
+
+uuid 778951d9-c39d-4a54-b9f9-67a3a4a1c692
+en foreign currency
+gr το συνάλλαγμα
+pos n
+
+uuid e618bdb2-ef57-4b94-bb87-806eb5298ee7
+en connection
+gr η σύνδεση
+gr η σχέση
+pos n
+
+uuid 18c4624c-c2f3-45d3-8fdb-bfbeb833899f
+en Munich
+gr Μόναχο
+pos n
+
+uuid acc7669e-be21-4f6a-af89-cc4ca1d05223
+en professor
+gr ο καθηγητής
+pos n
+
+uuid a6ea25d1-40de-44b1-8c83-5cd9c99af0d7
+en opinion
+gr η άποψη
+pos n
+
+uuid fe2f4b9e-5f97-4991-b7b3-dd12351bf5c8
+en temptation
+gr ο πειρασμός
+pos n
+
+uuid 58c1112e-4718-4783-80a2-36dd6a0bcfda
+en motivation
+gr το κίνητρο
+pos n
