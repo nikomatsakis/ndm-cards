@@ -8,118 +8,128 @@
     ],
     user: (
         records: {
-            "f0bac0d3-31b3-43d2-aa20-22a6fec30598": (
+            "a8596923-9bc5-4908-bff4-23acfd44ca15": (
                 questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:49:50.511748Z",
-                            result: Yes,
-                        ),
-                    ],
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-15T09:51:58.673985Z",
+                            date: "2018-02-25T13:28:54.258281Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:15:09.385427Z",
                             result: No,
                         ),
                     ],
-                },
-            ),
-            "305607a4-ce9b-46d0-8e42-608dc27b88ef": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:32:01.983112Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:15:29.610930Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:21:43.783182Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:10:39.617602Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:26:57.485017Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:38.246904Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:33:40.470631Z",
-                            result: Yes,
-                        ),
-                    ],
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-02-25T13:29:35.292221Z",
+                            date: "2018-02-25T13:31:52.551669Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-02-27T09:16:59.288867Z",
+                            date: "2018-02-27T09:16:10.942539Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-02-28T09:23:00.495369Z",
+                            date: "2018-02-28T09:22:17.562145Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-01T10:13:57.344541Z",
+                            date: "2018-03-01T10:10:57.545621Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-02T18:28:10.561141Z",
+                            date: "2018-03-02T18:27:08.364312Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-03T16:52:19.182715Z",
+                            date: "2018-03-03T16:51:46.807051Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-06T09:34:19.247863Z",
+                            date: "2018-03-06T09:33:49.351506Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "06d0cbd8-0b89-42c9-95a3-fa083a2820af": (
+            "f77ca0ac-0f59-4890-86ae-4a8ef045a2b5": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-02-28T09:21:34.351003Z",
+                            date: "2018-02-24T19:48:41.591712Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-01T10:12:59.650191Z",
+                            date: "2018-02-25T13:28:05.597388Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:31:26.690606Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-02T18:26:07.956856Z",
+                            date: "2018-02-27T09:17:09.560433Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "4994f0e4-d8ab-4012-8c7d-eee5837cbade": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:27:36.213359Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:12:47.100511Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:25:55.277352Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:17:26.967513Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "82b96113-1228-42a2-96fa-92de152d0446": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:52:02.697903Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-03T16:49:54.831419Z",
+                            date: "2018-03-18T09:25:18.676477Z",
                             result: Yes,
                         ),
                     ],
@@ -128,11 +138,41 @@
                         to: Greek,
                     ): [
                         (
-                            date: "2018-02-28T09:21:11.750337Z",
+                            date: "2018-03-15T09:52:28.921660Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:26:51.979526Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "7e2fb67c-ed6c-4da7-acc7-86fd2d02c4ab": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-24T19:48:27.355034Z",
                             result: No,
                         ),
                         (
-                            date: "2018-03-01T10:12:31.990853Z",
+                            date: "2018-02-25T13:29:44.836238Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:30:12.635335Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:15:16.098602Z",
                             result: No,
                         ),
                     ],
@@ -168,216 +208,78 @@
                     ],
                 },
             ),
-            "3d8cbba9-e604-47b5-92fa-97dd0becbca4": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-24T19:48:15.385018Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-25T13:29:04.293543Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-24T19:47:42.668483Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-25T13:27:39.013485Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "efd2895d-4e03-4060-b580-610a36df7a3b": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:52:25.289835Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:51:22.892509Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "58c1112e-4718-4783-80a2-36dd6a0bcfda": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:05:34.816953Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-12T08:15:39.711260Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:03:11.753424Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:17:04.725841Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "3606cbe0-c608-4c4f-b9c4-af47157a815d": (
+            "d643651a-879b-4490-ae48-da07c069f8ce": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-03-15T09:50:09.848624Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:53:43.561194Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "f77ca0ac-0f59-4890-86ae-4a8ef045a2b5": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:31:26.690606Z",
+                            date: "2018-03-15T09:52:19.385979Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-02-27T09:17:09.560433Z",
+                            date: "2018-03-18T09:28:42.680038Z",
                             result: No,
                         ),
                     ],
                     Translate(
-                        from: Greek,
-                        to: English,
+                        from: English,
+                        to: Greek,
                     ): [
                         (
-                            date: "2018-02-24T19:48:41.591712Z",
-                            result: Yes,
+                            date: "2018-03-15T09:50:59.232971Z",
+                            result: No,
                         ),
                         (
-                            date: "2018-02-25T13:28:05.597388Z",
+                            date: "2018-03-18T09:26:14.415566Z",
                             result: No,
                         ),
                     ],
                 },
             ),
-            "7d471aff-101a-4cbb-af2d-e8863d1bbe24": (
+            "894ff44a-613c-4012-85c8-a619d3d44c05": (
                 questions: {
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-01T10:10:16.537751Z",
+                            date: "2018-03-10T21:01:40.609894Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-02T18:29:11.450358Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:21.006793Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-01T10:12:52.837876Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:26:40.508645Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:49:57.197650Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "bd0c6602-98f1-4d9d-8438-d25891a38bc4": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:52:06.097885Z",
+                            date: "2018-03-12T08:15:31.778173Z",
                             result: No,
                         ),
                     ],
                     Translate(
-                        from: English,
-                        to: Greek,
+                        from: Greek,
+                        to: English,
                     ): [
                         (
-                            date: "2018-03-15T09:52:45.457885Z",
+                            date: "2018-03-10T21:01:26.330709Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:16:54.806030Z",
                             result: No,
                         ),
                     ],
                 },
             ),
-            "c726416b-6848-46e2-9f12-2c56ac9a4f66": (
+            "4d7a5fcb-1f1c-4817-b995-502e24c5ad92": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-03-01T10:13:28.890648Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-02T18:28:36.904066Z",
+                            date: "2018-03-10T21:04:28.179840Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-03T16:50:38.070996Z",
+                            date: "2018-03-12T08:17:00.037679Z",
                             result: Yes,
                         ),
                     ],
@@ -386,36 +288,32 @@
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-01T10:11:22.577745Z",
+                            date: "2018-03-10T21:02:05.844699Z",
                             result: No,
                         ),
                         (
-                            date: "2018-03-02T18:28:34.083288Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:01.999880Z",
-                            result: Yes,
+                            date: "2018-03-12T08:16:42.519063Z",
+                            result: Almost,
                         ),
                     ],
                 },
             ),
-            "0b0e6fb7-81b7-4278-912e-4db3b5286a38": (
+            "5a048a8c-ef64-49b8-a8d4-60723121171b": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-03-01T10:11:35.560359Z",
+                            date: "2018-03-01T10:13:35.705827Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-02T18:25:56.403702Z",
+                            date: "2018-03-02T18:28:57.735193Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-03T16:50:11.886343Z",
+                            date: "2018-03-03T16:50:47.038846Z",
                             result: Yes,
                         ),
                     ],
@@ -424,227 +322,15 @@
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-01T10:09:45.739733Z",
+                            date: "2018-03-01T10:13:11.130536Z",
                             result: No,
                         ),
                         (
-                            date: "2018-03-02T18:28:55.264341Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "54e4c6b7-5389-4803-96e7-cdecc2e8a8fc": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-01T10:13:13.234539Z",
+                            date: "2018-03-02T18:26:53.131960Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-02T18:27:38.605108Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:50:21.781815Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-01T10:11:02.833585Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-02T18:27:25.644901Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:50:44.886784Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "4658f87e-6423-4d19-beb8-4fc833378925": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-28T09:21:40.758223Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:11:05.481460Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:25:44.220129Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:50:15.231397Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-28T09:20:25.847128Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:10:24.145603Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:26:01.124669Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:50:25.687858Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "1ad1794b-1826-4f22-8781-445034982e48": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:51:32.513080Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:51:35.120992Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "e156408a-29ea-4ad7-9132-bd5c2bee8fb2": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:02:57.600789Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:17:27.797752Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:03:37.033381Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:17:12.084546Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "5ca20a0a-ecba-45dc-9266-493be3bfae0b": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:49:47.335690Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:51:46.545923Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "76fd8916-2515-4994-841d-f386cd6f63ba": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:31:07.817861Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:16:33.348717Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:22:45.594024Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:13:19.490635Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:27:45.268582Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:52:15.222731Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:34:15.391431Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:28:24.944623Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:16:07.894627Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:22:58.807486Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:14:04.888569Z",
+                            date: "2018-03-03T16:50:08.863399Z",
                             result: No,
                         ),
                     ],
@@ -720,18 +406,26 @@
                     ],
                 },
             ),
-            "4994f0e4-d8ab-4012-8c7d-eee5837cbade": (
+            "76fd8916-2515-4994-841d-f386cd6f63ba": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-02-25T13:27:36.213359Z",
-                            result: No,
+                            date: "2018-02-25T13:28:24.944623Z",
+                            result: Yes,
                         ),
                         (
-                            date: "2018-02-27T09:12:47.100511Z",
+                            date: "2018-02-27T09:16:07.894627Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:22:58.807486Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:14:04.888569Z",
                             result: No,
                         ),
                     ],
@@ -740,32 +434,282 @@
                         to: Greek,
                     ): [
                         (
-                            date: "2018-02-25T13:25:55.277352Z",
+                            date: "2018-02-25T13:31:07.817861Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:16:33.348717Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:22:45.594024Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:13:19.490635Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:45.268582Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:52:15.222731Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:34:15.391431Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "06d0cbd8-0b89-42c9-95a3-fa083a2820af": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-28T09:21:34.351003Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:12:59.650191Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:26:07.956856Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:49:54.831419Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-28T09:21:11.750337Z",
                             result: No,
                         ),
                         (
-                            date: "2018-02-27T09:17:26.967513Z",
+                            date: "2018-03-01T10:12:31.990853Z",
                             result: No,
                         ),
                     ],
                 },
             ),
-            "ecdcb6de-3cfc-449e-8448-c9fc1c00978d": (
+            "bd0c6602-98f1-4d9d-8438-d25891a38bc4": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-03-01T10:14:20.671264Z",
+                            date: "2018-03-15T09:52:06.097885Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-18T09:25:59.939717Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:52:45.457885Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-18T09:24:46.481332Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "dda24f74-6e15-42c3-9d65-bd7f0abfc63d": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-24T19:48:36.207481Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-25T13:32:21.371305Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:31:33.640747Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-02T18:27:47.284950Z",
+                            date: "2018-02-27T09:15:37.855035Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-03T16:50:19.167480Z",
+                            date: "2018-02-28T09:22:14.537710Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:10:47.560531Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:02.301671Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:40.550801Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:33:43.398887Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "e069767d-1657-4657-8d4f-bb9be06851f9": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:31:43.536836Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:15:19.729366Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:21:53.518815Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:31:12.713536Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:15:22.762559Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:22:05.414963Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:10:44.913591Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:05.357063Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:43.271505Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:33:46.254669Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "f437643e-7b45-4a32-8c51-97916d95e910": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:32:10.449720Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:17:02.624981Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:22:34.199351Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:11:26.281318Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:29.197027Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:52:05.070605Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:34:05.335806Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:25:47.265540Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:13:13.797322Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:22:39.073818Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:13:40.026429Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:28:08.200093Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "acc7669e-be21-4f6a-af89-cc4ca1d05223": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:05:02.067314Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-12T08:17:14.845527Z",
                             result: Yes,
                         ),
                     ],
@@ -774,15 +718,409 @@
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-01T10:13:31.602363Z",
+                            date: "2018-03-10T21:02:49.329525Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:11:46.341155Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "54e4c6b7-5389-4803-96e7-cdecc2e8a8fc": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-01T10:13:13.234539Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-02T18:27:13.717057Z",
+                            date: "2018-03-02T18:27:38.605108Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-03T16:50:17.455397Z",
+                            date: "2018-03-03T16:50:21.781815Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-01T10:11:02.833585Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:25.644901Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:44.886784Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "47c2d1e3-6bbd-42ea-939b-0904344fda20": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:51:54.506Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-18T09:28:07.023696Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:49:18.786136Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-18T09:28:31.002965Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "4764e244-ff66-4264-917b-eb2e85cd18fa": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-01T10:14:08.960346Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-02T18:29:16.994360Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:42.358935Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-01T10:10:37.081542Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:36.629018Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "c1514da9-bf0f-4372-bb92-e6f263acda1f": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:05:48.608266Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:12:04.778991Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:04:05.194811Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:15:20.861129Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "d324252f-d2eb-48ae-baf5-fccc1ed3016e": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:27:00.077318Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:12:40.892557Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:22:01.902765Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:12:44.496093Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:30:47.218185Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:17:34.604863Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "1db471c1-e6ee-4d80-ac87-15a659fcce5b": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:04:46.605954Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:14:44.196402Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:05:53.552950Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-12T08:16:47.029848Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "3d8cbba9-e604-47b5-92fa-97dd0becbca4": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-24T19:48:15.385018Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-25T13:29:04.293543Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-24T19:47:42.668483Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-25T13:27:39.013485Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "305607a4-ce9b-46d0-8e42-608dc27b88ef": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:29:35.292221Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:16:59.288867Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:23:00.495369Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:13:57.344541Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:28:10.561141Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:52:19.182715Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:34:19.247863Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:32:01.983112Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:15:29.610930Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:21:43.783182Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:10:39.617602Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:26:57.485017Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:38.246904Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:33:40.470631Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "efd2895d-4e03-4060-b580-610a36df7a3b": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:51:22.892509Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:27:42.294873Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:52:25.289835Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:26:43.418489Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "e4a6a4f3-5678-4e23-bde2-49772dc7ca0a": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-01T10:14:12.392345Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:28:21.344064Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:30.799377Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-01T10:13:22.859131Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:49.341738Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:27.733926Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "5ca20a0a-ecba-45dc-9266-493be3bfae0b": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:51:46.545923Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-18T09:26:48.275079Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:49:47.335690Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:25:55.402764Z",
                             result: Yes,
                         ),
                     ],
@@ -818,6 +1156,36 @@
                     ],
                 },
             ),
+            "5196b34a-8502-449d-a13f-20050848960c": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:27:11.237504Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:16:48.524760Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-24T19:48:12.549973Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-25T13:28:26.752597Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
             "57d56046-7b82-4406-9846-487272aa0d4a": (
                 questions: {
                     Translate(
@@ -848,23 +1216,23 @@
                     ],
                 },
             ),
-            "5a048a8c-ef64-49b8-a8d4-60723121171b": (
+            "2d58edb4-bbdb-489a-8bee-514fed7f3ee1": (
                 questions: {
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-01T10:13:11.130536Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-02T18:26:53.131960Z",
+                            date: "2018-03-01T10:10:27.946110Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-03T16:50:08.863399Z",
-                            result: No,
+                            date: "2018-03-02T18:27:55.476711Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:55.983500Z",
+                            result: Yes,
                         ),
                     ],
                     Translate(
@@ -872,32 +1240,32 @@
                         to: English,
                     ): [
                         (
-                            date: "2018-03-01T10:13:35.705827Z",
+                            date: "2018-03-01T10:10:09.250817Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-02T18:28:57.735193Z",
+                            date: "2018-03-02T18:26:29.323110Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-03T16:50:47.038846Z",
+                            date: "2018-03-03T16:50:33.455483Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "18c4624c-c2f3-45d3-8fdb-bfbeb833899f": (
+            "778951d9-c39d-4a54-b9f9-67a3a4a1c692": (
                 questions: {
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-10T21:05:59.896965Z",
+                            date: "2018-03-10T21:03:21.529565Z",
                             result: No,
                         ),
                         (
-                            date: "2018-03-12T08:16:07.536641Z",
+                            date: "2018-03-12T08:14:36.428346Z",
                             result: Yes,
                         ),
                     ],
@@ -906,24 +1274,48 @@
                         to: English,
                     ): [
                         (
-                            date: "2018-03-10T21:06:11.816917Z",
+                            date: "2018-03-10T21:03:24.537504Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-12T08:14:18.045223Z",
+                            date: "2018-03-12T08:16:20.551969Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "74823cd1-718a-4cc6-b169-7ae740407fc0": (
+            "c98c7547-d1ed-49fe-8c4b-6691b472347b": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-03-15T09:52:36.657831Z",
+                            date: "2018-02-25T13:30:04.444494Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:12:37.885306Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:21:21.615451Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:10:04.339369Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:26:22.468830Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:25.071232Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:33:26.342506Z",
                             result: Yes,
                         ),
                     ],
@@ -932,25 +1324,63 @@
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-15T09:51:30.409081Z",
+                            date: "2018-02-25T13:26:26.718068Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:13:25.861844Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "c23409be-8d3e-4c97-924e-53786b0503a5": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:04:52.879932Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-12T08:14:58.804605Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:03:31.873514Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:17:43.788731Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "e618bdb2-ef57-4b94-bb87-806eb5298ee7": (
+            "bea2320d-c59c-49c8-b87a-bdca8037fed8": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-03-10T21:01:30.986578Z",
+                            date: "2018-02-25T13:31:31.480460Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-12T08:15:23.997352Z",
+                            date: "2018-02-27T09:17:42.677585Z",
                             result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:22:54.655522Z",
+                            result: No,
                         ),
                     ],
                     Translate(
@@ -958,28 +1388,288 @@
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-10T21:05:25.674764Z",
-                            result: No,
+                            date: "2018-02-25T13:26:12.198708Z",
+                            result: Yes,
                         ),
                         (
-                            date: "2018-03-12T08:15:55.485402Z",
+                            date: "2018-02-27T09:16:00.181850Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:23:03.246540Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:14:15.056381Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:28:14.239987Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:52:23.406780Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:34:22.759488Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "ac638e45-85df-455d-b91b-ee489a94fc84": (
+            "095f0545-dc70-4c15-aeaa-1c8893d13729": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:50:35.112462Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:26:22.889823Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:50:06.176603Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-18T09:24:37.170367Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "2918dcc0-19b7-4dd7-bd4b-0881a17fa57e": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:49:13.283258Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:25:23.084568Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:53:38.969236Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:25:50.923632Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "5a379948-b203-4207-9d93-b5a217ef1222": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:30:15.971116Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:14:50.197516Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:22:12.345808Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:11:12.025505Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:20.428774Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:52:00.605361Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:33:58.519889Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:29:14.588248Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:13:53.788049Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "7170581f-534f-46d8-b70b-d443488b8777": (
                 questions: {
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-02-24T19:48:23.965486Z",
+                            date: "2018-02-25T13:25:43.504832Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:17:13.863764Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:23:20.135230Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:14:40.841533Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:29:01.335973Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:52:32.670842Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:34:39.912103Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:31:35.609224Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:16:02.542217Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:22:19.712812Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:11:07.689600Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:17.348288Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:55.893141Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:33:51.446677Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "e4aa55cf-78e4-4818-8892-e8761d7f3b18": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:52:22.185982Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:24:16.260637Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:50:29.112453Z",
                             result: No,
                         ),
                         (
-                            date: "2018-02-25T13:28:31.912346Z",
+                            date: "2018-03-18T09:27:37.614830Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "f611f2f1-eae2-4679-bfbb-31267b5ab906": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:02:33.196598Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:15:46.352498Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:06:08.833265Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:16:27.984815Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "a6ea25d1-40de-44b1-8c83-5cd9c99af0d7": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:01:37.450596Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-12T08:14:12.678491Z",
                             result: Yes,
                         ),
                     ],
@@ -988,32 +1678,72 @@
                         to: English,
                     ): [
                         (
-                            date: "2018-02-25T13:31:23.322778Z",
+                            date: "2018-03-10T21:04:59.291095Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-02-27T09:14:14.460469Z",
+                            date: "2018-03-12T08:14:52.219975Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "3606cbe0-c608-4c4f-b9c4-af47157a815d": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:53:43.561194Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-02-28T09:21:29.165884Z",
+                            date: "2018-03-18T09:24:05.966247Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:50:09.848624Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-01T10:10:06.602616Z",
+                            date: "2018-03-18T09:28:28.915110Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "3593dc63-f0b4-4993-bf18-62c1a4ccbf49": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-24T19:47:49.673771Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-25T13:27:25.763450Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:27:57.981263Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-02T18:26:32.042533Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:26.990826Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:33:28.638564Z",
-                            result: Yes,
+                            date: "2018-02-27T09:14:36.353168Z",
+                            result: No,
                         ),
                     ],
                 },
@@ -1071,6 +1801,714 @@
                         ),
                         (
                             date: "2018-03-06T09:33:37.647345Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "a175fbd2-7424-4143-9c9c-c9e0365b7086": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:29:30.300182Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:14:58.626361Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:22:27.270310Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:12:50.919388Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:40.956948Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:52:09.830861Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:34:08.375202Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-24T19:48:07.794426Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-25T13:30:36.162746Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "ac638e45-85df-455d-b91b-ee489a94fc84": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:31:23.322778Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:14:14.460469Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:21:29.165884Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:10:06.602616Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:26:32.042533Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:26.990826Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:33:28.638564Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-24T19:48:23.965486Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-25T13:28:31.912346Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "897de161-aaaa-4393-8d16-b43f0868a97d": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:31:01.929449Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:13:57.500969Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:21:25.949740Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:10:11.226677Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:26:42.540804Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:28.719629Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:33:30.694968Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-24T19:48:10.420104Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-25T13:26:16.606950Z",
+                            result: Almost,
+                        ),
+                    ],
+                },
+            ),
+            "6fb98b80-d71c-4575-bdf8-0e1a3fbfe6b7": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-01T10:09:37.978965Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-02T18:28:26.575892Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:18.261224Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-01T10:11:28.889850Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:28:29.039292Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:50.231862Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "509ae6b8-c0c3-41bf-b3bd-2d8cdd51d7ce": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-24T19:47:45.188371Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-25T13:31:49.583606Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:27:06.381493Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:17:18.408680Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:23:07.167354Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:14:18.960492Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:28:43.640058Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:52:27.143815Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:34:26.128104Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "93ece331-a1a5-4d98-b9af-9462e9872bdd": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:29:33.036176Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:16:18.647561Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:28:41.879111Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:13:43.355381Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "0403582d-be6e-4924-ba87-3d064ada6c6e": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-01T10:11:09.329646Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:22.156894Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:40.134192Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-01T10:12:48.144238Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:25:52.885198Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:49:51.919425Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "9fa3cf88-6343-43d9-820f-153ccb345194": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:04:11.298552Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:17:22.756793Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:05:43.456957Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-12T08:11:54.497127Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "18c4624c-c2f3-45d3-8fdb-bfbeb833899f": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:05:59.896965Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:16:07.536641Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:06:11.816917Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-12T08:14:18.045223Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "0b0e6fb7-81b7-4278-912e-4db3b5286a38": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-01T10:11:35.560359Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:25:56.403702Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:11.886343Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-01T10:09:45.739733Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-02T18:28:55.264341Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "568136f2-21e4-4f4e-bd48-a09e9c280879": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:02:20.644641Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:15:07.820156Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:04:18.762542Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:15:05.956412Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "5936cdf3-0a18-4bc9-8331-cbd2cc71b7a4": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-25T13:29:59.836846Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:16:29.036353Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:29:22.588186Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:14:45.997212Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "7d471aff-101a-4cbb-af2d-e8863d1bbe24": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-01T10:12:52.837876Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:26:40.508645Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:49:57.197650Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-01T10:10:16.537751Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:29:11.450358Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:21.006793Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "74909e16-95ae-41d7-bc35-6246f9305e53": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:50:31.823711Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:25:00.977221Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:50:17.432859Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-18T09:28:18.675450Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "58c1112e-4718-4783-80a2-36dd6a0bcfda": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:05:34.816953Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-12T08:15:39.711260Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:03:11.753424Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:17:04.725841Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "fe2f4b9e-5f97-4991-b7b3-dd12351bf5c8": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:01:48.978596Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:17:40.397706Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:05:41.392967Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:15:14.788381Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "56199a66-0a1a-4b77-aef1-e36c1581a521": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:02:14.284549Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:14:15.566127Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:02:24.796789Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-12T08:14:27.853431Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "df06b8d5-1d72-4f6f-8530-97e09ed56099": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-02-25T13:31:55.727504Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-27T09:15:56.118130Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-02-24T19:47:52.928769Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-25T13:30:54.610426Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "8da0158d-de1f-4168-ae85-e4b6e81f5a03": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:52:13.810029Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-18T09:25:44.332201Z",
+                            result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:49:59.104622Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-18T09:24:57.793319Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "74823cd1-718a-4cc6-b169-7ae740407fc0": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:52:36.657831Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:28:51.354932Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:51:30.409081Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:25:26.148529Z",
                             result: Yes,
                         ),
                     ],
@@ -1146,600 +2584,18 @@
                     ],
                 },
             ),
-            "6fb98b80-d71c-4575-bdf8-0e1a3fbfe6b7": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-01T10:09:37.978965Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-02T18:28:26.575892Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:18.261224Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-01T10:11:28.889850Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:28:29.039292Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:50:50.231862Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "2918dcc0-19b7-4dd7-bd4b-0881a17fa57e": (
+            "e156408a-29ea-4ad7-9132-bd5c2bee8fb2": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-03-15T09:49:13.283258Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:53:38.969236Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "0403582d-be6e-4924-ba87-3d064ada6c6e": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-01T10:11:09.329646Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:27:22.156894Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:50:40.134192Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-01T10:12:48.144238Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:25:52.885198Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:49:51.919425Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "a175fbd2-7424-4143-9c9c-c9e0365b7086": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:29:30.300182Z",
+                            date: "2018-03-10T21:03:37.033381Z",
                             result: No,
                         ),
                         (
-                            date: "2018-02-27T09:14:58.626361Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:22:27.270310Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:12:50.919388Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:27:40.956948Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:52:09.830861Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:34:08.375202Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-24T19:48:07.794426Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-25T13:30:36.162746Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "acc7669e-be21-4f6a-af89-cc4ca1d05223": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:05:02.067314Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-12T08:17:14.845527Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:02:49.329525Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:11:46.341155Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "5a379948-b203-4207-9d93-b5a217ef1222": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:29:14.588248Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-27T09:13:53.788049Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:30:15.971116Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:14:50.197516Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:22:12.345808Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:11:12.025505Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:27:20.428774Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:52:00.605361Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:33:58.519889Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "509ae6b8-c0c3-41bf-b3bd-2d8cdd51d7ce": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:27:06.381493Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-27T09:17:18.408680Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:23:07.167354Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:14:18.960492Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:28:43.640058Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:52:27.143815Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:34:26.128104Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-24T19:47:45.188371Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-25T13:31:49.583606Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "f611f2f1-eae2-4679-bfbb-31267b5ab906": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:06:08.833265Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:16:27.984815Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:02:33.196598Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:15:46.352498Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "4d7a5fcb-1f1c-4817-b995-502e24c5ad92": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:02:05.844699Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:16:42.519063Z",
-                            result: Almost,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:04:28.179840Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-12T08:17:00.037679Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "0006e4ba-6a08-4199-b184-afdbb8fd2ff9": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:52:32.609893Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:51:19.020448Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "3593dc63-f0b4-4993-bf18-62c1a4ccbf49": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-24T19:47:49.673771Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-25T13:27:25.763450Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:27:57.981263Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:14:36.353168Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "5936cdf3-0a18-4bc9-8331-cbd2cc71b7a4": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:29:59.836846Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-27T09:16:29.036353Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:29:22.588186Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-27T09:14:45.997212Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "02ff6cb7-c902-45ae-ac16-5c5882a86f95": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-01T10:09:54.346745Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-02T18:26:18.100737Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-01T10:10:53.713904Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:28:39.400076Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:06.389575Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "e4aa55cf-78e4-4818-8892-e8761d7f3b18": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:52:22.185982Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:50:29.112453Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "93ece331-a1a5-4d98-b9af-9462e9872bdd": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:28:41.879111Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-27T09:13:43.355381Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:29:33.036176Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:16:18.647561Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "20f36a30-e59e-48f7-8f81-d5baddb85239": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:49:08.800304Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:52:41.513757Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "dda24f74-6e15-42c3-9d65-bd7f0abfc63d": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:31:33.640747Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:15:37.855035Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:22:14.537710Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:10:47.560531Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:27:02.301671Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:40.550801Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:33:43.398887Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-24T19:48:36.207481Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-25T13:32:21.371305Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "bea2320d-c59c-49c8-b87a-bdca8037fed8": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:31:31.480460Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:17:42.677585Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:22:54.655522Z",
+                            date: "2018-03-12T08:17:12.084546Z",
                             result: No,
                         ),
                     ],
@@ -1748,143 +2604,11 @@
                         to: Greek,
                     ): [
                         (
-                            date: "2018-02-25T13:26:12.198708Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:16:00.181850Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:23:03.246540Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:14:15.056381Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:28:14.239987Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:52:23.406780Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:34:22.759488Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "568136f2-21e4-4f4e-bd48-a09e9c280879": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:02:20.644641Z",
+                            date: "2018-03-10T21:02:57.600789Z",
                             result: No,
                         ),
                         (
-                            date: "2018-03-12T08:15:07.820156Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:04:18.762542Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:15:05.956412Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "7e2fb67c-ed6c-4da7-acc7-86fd2d02c4ab": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-24T19:48:27.355034Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-25T13:29:44.836238Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:30:12.635335Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-27T09:15:16.098602Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "778951d9-c39d-4a54-b9f9-67a3a4a1c692": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:03:24.537504Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-12T08:16:20.551969Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:03:21.529565Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:14:36.428346Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "095f0545-dc70-4c15-aeaa-1c8893d13729": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:50:06.176603Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:50:35.112462Z",
+                            date: "2018-03-12T08:17:27.797752Z",
                             result: Yes,
                         ),
                     ],
@@ -1920,103 +2644,19 @@
                     ],
                 },
             ),
-            "e069767d-1657-4657-8d4f-bb9be06851f9": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:31:12.713536Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:15:22.762559Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:22:05.414963Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:10:44.913591Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:27:05.357063Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:43.271505Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:33:46.254669Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:31:43.536836Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:15:19.729366Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:21:53.518815Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "c1514da9-bf0f-4372-bb92-e6f263acda1f": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:04:05.194811Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:15:20.861129Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:05:48.608266Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:12:04.778991Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "897de161-aaaa-4393-8d16-b43f0868a97d": (
+            "e618bdb2-ef57-4b94-bb87-806eb5298ee7": (
                 questions: {
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-02-24T19:48:10.420104Z",
+                            date: "2018-03-10T21:05:25.674764Z",
                             result: No,
                         ),
                         (
-                            date: "2018-02-25T13:26:16.606950Z",
-                            result: Almost,
+                            date: "2018-03-12T08:15:55.485402Z",
+                            result: Yes,
                         ),
                     ],
                     Translate(
@@ -2024,104 +2664,58 @@
                         to: English,
                     ): [
                         (
-                            date: "2018-02-25T13:31:01.929449Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-27T09:13:57.500969Z",
+                            date: "2018-03-10T21:01:30.986578Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-02-28T09:21:25.949740Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:10:11.226677Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:26:42.540804Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:28.719629Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:33:30.694968Z",
+                            date: "2018-03-12T08:15:23.997352Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "d643651a-879b-4490-ae48-da07c069f8ce": (
+            "0006e4ba-6a08-4199-b184-afdbb8fd2ff9": (
                 questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:52:19.385979Z",
-                            result: Yes,
-                        ),
-                    ],
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-15T09:50:59.232971Z",
-                            result: No,
+                            date: "2018-03-15T09:52:32.609893Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:27:46.638746Z",
+                            result: Yes,
                         ),
                     ],
-                },
-            ),
-            "c23409be-8d3e-4c97-924e-53786b0503a5": (
-                questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-03-10T21:04:52.879932Z",
+                            date: "2018-03-15T09:51:19.020448Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-12T08:14:58.804605Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:03:31.873514Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:17:43.788731Z",
+                            date: "2018-03-18T09:26:40.787435Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "e4a6a4f3-5678-4e23-bde2-49772dc7ca0a": (
+            "f0bac0d3-31b3-43d2-aa20-22a6fec30598": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-03-01T10:13:22.859131Z",
+                            date: "2018-03-15T09:49:50.511748Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-02T18:27:49.341738Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:50:27.733926Z",
+                            date: "2018-03-18T09:28:32.819130Z",
                             result: Yes,
                         ),
                     ],
@@ -2130,184 +2724,28 @@
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-01T10:14:12.392345Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:28:21.344064Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:50:30.799377Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "894ff44a-613c-4012-85c8-a619d3d44c05": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:01:26.330709Z",
+                            date: "2018-03-15T09:51:58.673985Z",
                             result: No,
                         ),
                         (
-                            date: "2018-03-12T08:16:54.806030Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:01:40.609894Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-12T08:15:31.778173Z",
+                            date: "2018-03-18T09:25:06.905115Z",
                             result: No,
                         ),
                     ],
                 },
             ),
-            "1db471c1-e6ee-4d80-ac87-15a659fcce5b": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:04:46.605954Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:14:44.196402Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:05:53.552950Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-12T08:16:47.029848Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "8da0158d-de1f-4168-ae85-e4b6e81f5a03": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:52:13.810029Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:49:59.104622Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "a8596923-9bc5-4908-bff4-23acfd44ca15": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:28:54.258281Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-27T09:15:09.385427Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:31:52.551669Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:16:10.942539Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:22:17.562145Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:10:57.545621Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:27:08.364312Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:46.807051Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:33:49.351506Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "7170581f-534f-46d8-b70b-d443488b8777": (
+            "20f36a30-e59e-48f7-8f81-d5baddb85239": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-02-25T13:31:35.609224Z",
+                            date: "2018-03-15T09:52:41.513757Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-02-27T09:16:02.542217Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:22:19.712812Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:11:07.689600Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:27:17.348288Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:55.893141Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:33:51.446677Z",
+                            date: "2018-03-18T09:25:14.980606Z",
                             result: Yes,
                         ),
                     ],
@@ -2316,355 +2754,11 @@
                         to: Greek,
                     ): [
                         (
-                            date: "2018-02-25T13:25:43.504832Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:17:13.863764Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:23:20.135230Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:14:40.841533Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:29:01.335973Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:52:32.670842Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:34:39.912103Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "fe2f4b9e-5f97-4991-b7b3-dd12351bf5c8": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:05:41.392967Z",
+                            date: "2018-03-15T09:49:08.800304Z",
                             result: No,
                         ),
                         (
-                            date: "2018-03-12T08:15:14.788381Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:01:48.978596Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:17:40.397706Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "d324252f-d2eb-48ae-baf5-fccc1ed3016e": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:27:00.077318Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:12:40.892557Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:22:01.902765Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:12:44.496093Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:30:47.218185Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:17:34.604863Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "338b9e30-63c9-45a9-9048-8fd66112b339": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:51:49.817993Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:49:41.993571Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "74909e16-95ae-41d7-bc35-6246f9305e53": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:50:17.432859Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:50:31.823711Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "47c2d1e3-6bbd-42ea-939b-0904344fda20": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:51:54.506Z",
-                            result: No,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:49:18.786136Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "537a6969-cb93-4be3-998c-c7e2988da661": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-15T09:50:24.992547Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-15T09:52:16.450058Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "b9b3cf30-81bc-4fe1-a66c-a2b7a8083068": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-24T19:47:47.153582Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-25T13:28:57.278367Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-24T19:48:05.604537Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-25T13:28:18.741071Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "a306a30c-50e8-440d-aff7-a48cc6b2adc1": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:29:26.020638Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:12:33.221777Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:21:24.119145Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:10:19.536674Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:26:47.725024Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:31.166816Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:33:33.734648Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:30:42.834387Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-27T09:12:56.764388Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:21:18.822980Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:10:00.723505Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "6941adb2-08dd-436c-8b6d-ee4dc0aacd09": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:04:36.186762Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:17:32.140847Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:04:39.827772Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-12T08:14:55.421321Z",
-                            result: Yes,
-                        ),
-                    ],
-                },
-            ),
-            "c98c7547-d1ed-49fe-8c4b-6691b472347b": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:30:04.444494Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:12:37.885306Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:21:21.615451Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:10:04.339369Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:26:22.468830Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:51:25.071232Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:33:26.342506Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-02-25T13:26:26.718068Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-02-27T09:13:25.861844Z",
+                            date: "2018-03-18T09:27:26.680492Z",
                             result: No,
                         ),
                     ],
@@ -2708,141 +2802,81 @@
                     ],
                 },
             ),
-            "f437643e-7b45-4a32-8c51-97916d95e910": (
+            "a306a30c-50e8-440d-aff7-a48cc6b2adc1": (
                 questions: {
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-02-25T13:32:10.449720Z",
+                            date: "2018-02-25T13:30:42.834387Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-02-27T09:12:56.764388Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-02-27T09:17:02.624981Z",
+                            date: "2018-02-28T09:21:18.822980Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-02-28T09:22:34.199351Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:11:26.281318Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:27:29.197027Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:52:05.070605Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-06T09:34:05.335806Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-02-25T13:25:47.265540Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-27T09:13:13.797322Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-02-28T09:22:39.073818Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-01T10:13:40.026429Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-02T18:28:08.200093Z",
+                            date: "2018-03-01T10:10:00.723505Z",
                             result: No,
                         ),
                     ],
-                },
-            ),
-            "a6ea25d1-40de-44b1-8c83-5cd9c99af0d7": (
-                questions: {
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:01:37.450596Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-12T08:14:12.678491Z",
-                            result: Yes,
-                        ),
-                    ],
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-03-10T21:04:59.291095Z",
+                            date: "2018-02-25T13:29:26.020638Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-12T08:14:52.219975Z",
+                            date: "2018-02-27T09:12:33.221777Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-02-28T09:21:24.119145Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:10:19.536674Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:26:47.725024Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:31.166816Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-06T09:33:33.734648Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "56199a66-0a1a-4b77-aef1-e36c1581a521": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-10T21:02:14.284549Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-12T08:14:15.566127Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-10T21:02:24.796789Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-12T08:14:27.853431Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "9fa3cf88-6343-43d9-820f-153ccb345194": (
+            "c726416b-6848-46e2-9f12-2c56ac9a4f66": (
                 questions: {
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-10T21:04:11.298552Z",
+                            date: "2018-03-01T10:11:22.577745Z",
                             result: No,
                         ),
                         (
-                            date: "2018-03-12T08:17:22.756793Z",
-                            result: No,
+                            date: "2018-03-02T18:28:34.083288Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:01.999880Z",
+                            result: Yes,
                         ),
                     ],
                     Translate(
@@ -2850,29 +2884,33 @@
                         to: English,
                     ): [
                         (
-                            date: "2018-03-10T21:05:43.456957Z",
+                            date: "2018-03-01T10:13:28.890648Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-02T18:28:36.904066Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-03-12T08:11:54.497127Z",
+                            date: "2018-03-03T16:50:38.070996Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "5196b34a-8502-449d-a13f-20050848960c": (
+            "338b9e30-63c9-45a9-9048-8fd66112b339": (
                 questions: {
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-02-25T13:27:11.237504Z",
-                            result: Yes,
+                            date: "2018-03-15T09:49:41.993571Z",
+                            result: No,
                         ),
                         (
-                            date: "2018-02-27T09:16:48.524760Z",
-                            result: No,
+                            date: "2018-03-18T09:26:38.211457Z",
+                            result: Almost,
                         ),
                     ],
                     Translate(
@@ -2880,24 +2918,28 @@
                         to: English,
                     ): [
                         (
-                            date: "2018-02-24T19:48:12.549973Z",
+                            date: "2018-03-15T09:51:49.817993Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-02-25T13:28:26.752597Z",
+                            date: "2018-03-18T09:26:54.467559Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "82b96113-1228-42a2-96fa-92de152d0446": (
+            "537a6969-cb93-4be3-998c-c7e2988da661": (
                 questions: {
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-15T09:52:28.921660Z",
+                            date: "2018-03-15T09:50:24.992547Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:29:02.606912Z",
                             result: Yes,
                         ),
                     ],
@@ -2906,63 +2948,29 @@
                         to: English,
                     ): [
                         (
-                            date: "2018-03-15T09:52:02.697903Z",
+                            date: "2018-03-15T09:52:16.450058Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:28:24.457927Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "4764e244-ff66-4264-917b-eb2e85cd18fa": (
-                questions: {
-                    Translate(
-                        from: Greek,
-                        to: English,
-                    ): [
-                        (
-                            date: "2018-03-01T10:14:08.960346Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-02T18:29:16.994360Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:50:42.358935Z",
-                            result: Yes,
-                        ),
-                    ],
-                    Translate(
-                        from: English,
-                        to: Greek,
-                    ): [
-                        (
-                            date: "2018-03-01T10:10:37.081542Z",
-                            result: No,
-                        ),
-                        (
-                            date: "2018-03-02T18:27:36.629018Z",
-                            result: No,
-                        ),
-                    ],
-                },
-            ),
-            "2d58edb4-bbdb-489a-8bee-514fed7f3ee1": (
+            "b9b3cf30-81bc-4fe1-a66c-a2b7a8083068": (
                 questions: {
                     Translate(
                         from: English,
                         to: Greek,
                     ): [
                         (
-                            date: "2018-03-01T10:10:27.946110Z",
-                            result: Yes,
+                            date: "2018-02-24T19:48:05.604537Z",
+                            result: No,
                         ),
                         (
-                            date: "2018-03-02T18:27:55.476711Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:50:55.983500Z",
-                            result: Yes,
+                            date: "2018-02-25T13:28:18.741071Z",
+                            result: No,
                         ),
                     ],
                     Translate(
@@ -2970,33 +2978,37 @@
                         to: English,
                     ): [
                         (
-                            date: "2018-03-01T10:10:09.250817Z",
-                            result: Yes,
+                            date: "2018-02-24T19:47:47.153582Z",
+                            result: No,
                         ),
                         (
-                            date: "2018-03-02T18:26:29.323110Z",
-                            result: Yes,
-                        ),
-                        (
-                            date: "2018-03-03T16:50:33.455483Z",
+                            date: "2018-02-25T13:28:57.278367Z",
                             result: Yes,
                         ),
                     ],
                 },
             ),
-            "df06b8d5-1d72-4f6f-8530-97e09ed56099": (
+            "4658f87e-6423-4d19-beb8-4fc833378925": (
                 questions: {
                     Translate(
                         from: Greek,
                         to: English,
                     ): [
                         (
-                            date: "2018-02-25T13:31:55.727504Z",
+                            date: "2018-02-28T09:21:40.758223Z",
                             result: Yes,
                         ),
                         (
-                            date: "2018-02-27T09:15:56.118130Z",
-                            result: No,
+                            date: "2018-03-01T10:11:05.481460Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:25:44.220129Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:15.231397Z",
+                            result: Yes,
                         ),
                     ],
                     Translate(
@@ -3004,12 +3016,152 @@
                         to: Greek,
                     ): [
                         (
-                            date: "2018-02-24T19:47:52.928769Z",
+                            date: "2018-02-28T09:20:25.847128Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-01T10:10:24.145603Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:26:01.124669Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:25.687858Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "02ff6cb7-c902-45ae-ac16-5c5882a86f95": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-01T10:09:54.346745Z",
                             result: No,
                         ),
                         (
-                            date: "2018-02-25T13:30:54.610426Z",
+                            date: "2018-03-02T18:26:18.100737Z",
                             result: No,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-01T10:10:53.713904Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:28:39.400076Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:51:06.389575Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "ecdcb6de-3cfc-449e-8448-c9fc1c00978d": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-01T10:14:20.671264Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:47.284950Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:19.167480Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-01T10:13:31.602363Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-02T18:27:13.717057Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-03T16:50:17.455397Z",
+                            result: Yes,
+                        ),
+                    ],
+                },
+            ),
+            "1ad1794b-1826-4f22-8781-445034982e48": (
+                questions: {
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-15T09:51:32.513080Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:26:16.654590Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-15T09:51:35.120992Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-18T09:25:33.428526Z",
+                            result: No,
+                        ),
+                    ],
+                },
+            ),
+            "6941adb2-08dd-436c-8b6d-ee4dc0aacd09": (
+                questions: {
+                    Translate(
+                        from: English,
+                        to: Greek,
+                    ): [
+                        (
+                            date: "2018-03-10T21:04:36.186762Z",
+                            result: No,
+                        ),
+                        (
+                            date: "2018-03-12T08:17:32.140847Z",
+                            result: Yes,
+                        ),
+                    ],
+                    Translate(
+                        from: Greek,
+                        to: English,
+                    ): [
+                        (
+                            date: "2018-03-10T21:04:39.827772Z",
+                            result: Yes,
+                        ),
+                        (
+                            date: "2018-03-12T08:14:55.421321Z",
+                            result: Yes,
                         ),
                     ],
                 },
