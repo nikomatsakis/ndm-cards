@@ -1,0 +1,63 @@
+uuid 4c8b927a-9c03-4553-aca9-290c480f12bb
+en well (n)
+gr το πηγάδι
+pos n
+
+uuid ac3145fc-109a-40bf-ad45-0e2049427e40
+en to make a note
+gr σημειώνω
+pos v
+
+uuid 3307d7f3-5c12-428d-a99e-ad23d65ae6d4
+en dictionary
+gr το λεξικό
+pos n
+
+uuid f9db235a-12f0-4ebc-9f00-ef7525349d07
+en pickle (food)
+gr μια πίκλα
+pos n
+
+uuid 6ad27919-ee70-41ee-99f3-3924ba37e95d
+en immigrant
+gr ο μετανάστης
+gr η μετανάστρια
+pos n
+
+uuid 4cd468fa-3c77-46ee-b2eb-68870448b4b7
+en impurity
+gr η πρόσμειξη
+pos n
+
+uuid 229700dc-0307-49f0-bcbc-dc4d7fd7206e
+en to spoil
+gr χαλάω
+gr αλλιώνομαι
+pos v
+
+uuid 29281d28-dba7-4d42-9d8d-8235a831aab0
+en to contaminate
+gr μολύνω
+pos v
+
+uuid 00799373-3536-46c6-a044-b038948f39c0
+en to refer to (something)
+en to mention
+gr αναφέρω
+pos v
+
+uuid 9a0a4e78-25a6-421e-b6f1-fe095a5b0f65
+en object (grammar)
+gr το αντικείμενο
+pos n
+
+uuid bc505696-86d5-4433-91b8-a23c35c7a464
+en to incite
+gr προτρέπω
+pos v
+
+uuid 8b6119d3-577a-47b3-80b4-026381a2f585
+en to flow
+en to roll
+gr κυλάω
+pos v
