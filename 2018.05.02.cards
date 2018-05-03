@@ -9,7 +9,7 @@ gr η μίξη
 pos n
 
 uuid 9b34849b-3e05-4f1b-8281-555703c6bb94
-en to meet
+en to meet (someone)
 gr έχω γνωριστεί
 pos v
 
@@ -109,3 +109,8 @@ uuid 5c5ca6cc-6de0-489c-884e-f822685e5b41
 en disclosure
 gr η αποκάλυψη
 pos n
+
+uuid 02b770cf-3be3-4706-b5cd-d9f9f5d72aa7
+en to rub, to grind, to scour
+gr τρίβω
+pos v
