@@ -1,0 +1,111 @@
+uuid 93efc90c-3bec-46f7-b9bd-425b46294616
+en hail
+gr το χαλάζι
+pos n
+
+uuid d98cf41f-3137-4c4b-9565-d917188be483
+en mix
+gr η μίξη
+pos n
+
+uuid 9b34849b-3e05-4f1b-8281-555703c6bb94
+en to meet
+gr έχω γνωριστεί
+pos v
+
+uuid 18bc76ac-59d7-42a9-b2af-d89d271dd823
+en urbanization
+gr η αστυφιλία
+pos n
+
+uuid 46bda6af-3f0d-4947-b9ff-21640c3dde8b
+en renovation
+gr η ανακαίνιση
+pos n
+
+uuid d2cd4c80-dd67-4471-933b-04d31702f7a0
+en protection
+gr η προστασία
+pos n
+
+uuid 24f70281-79ad-4681-93b9-412ebf78386a
+en leak
+gr η διαρροή
+pos n
+
+uuid aa1c4ba8-5ec5-4036-ae0c-d49cc991962c
+en shore
+gr η ακτή
+pos n
+
+uuid 5025f361-d163-480d-a63e-8c8993fdd4f3
+en scientist
+gr ο επιστήμονας
+pos n
+
+uuid 4e2119b5-09ae-430b-a660-e825758f841e
+en to talk about
+gr κάνω λόγο
+pos v
+
+uuid 872ff2dd-2b05-4d69-9833-72c9e31631d9
+en patrol
+gr η περιπολία
+pos n
+
+uuid 6db303dd-0758-4410-99fd-5e9d0ad1eb6f
+en aerial
+gr εναέριος
+pos adj
+
+uuid 233b57f9-1d2d-4fdf-ae1c-0a16d5110d29
+en stain
+gr ο λεκές
+gr η κηλίδα
+pos n
+
+uuid 8cb0a29f-b515-4f38-8871-8e5bc7d2e417
+en length
+gr ο μήκος
+pos n
+
+uuid 80491bf3-bedc-4af6-a880-dcf0f0db4793
+en scattered
+gr διάσπαρτος
+pos adj
+
+uuid 68b0f29a-61a3-4a07-b992-a1d421ef6944
+en to pollute
+gr ρυπαίνω
+pos v
+
+uuid 7e6ff4c7-4018-41dc-aefb-60be87f0ca27
+en fisherman
+gr ο ψαράς
+pos n
+
+uuid b5704cb9-c53a-424b-9594-d0765242ff7e
+en to fish
+gr ψαρεύω
+gr αλιεύω
+pos v
+
+uuid ac02eab8-e376-443a-9ce8-2ec34cdaba71
+en pearl
+gr το μαργαριτάρι
+pos n
+
+uuid dfa041ce-8e0a-4ed3-a8bf-cbfb4c66271e
+en wall
+gr το τοίχωμα
+pos n
+
+uuid f8393b35-580e-4799-a970-d02c2a8f1e6f
+en to procrastinate
+gr χρονοτριβώ
+pos v
+
+uuid 5c5ca6cc-6de0-489c-884e-f822685e5b41
+en disclosure
+gr η αποκάλυψη
+pos n
