@@ -7,3 +7,15 @@ uuid c14d98c1-5173-4a99-a464-54a14ba4f618
 en limited (time, resources)
 gr περιορισμένος
 pos adj
+
+uuid a325aa35-e020-4fb8-ae3f-b65ddae85cc4
+en rainbow
+gr ουράνιο τόξο
+pos n
+
+uuid 813d3544-0e03-4f84-8eef-a6b0bcf2838e
+en arc
+en bow (weapon), crossbow
+en arrow
+gr τόξο
+pos n
