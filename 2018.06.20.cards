@@ -1,0 +1,40 @@
+uuid f91843db-cb73-4ffa-9d82-2db0eb64b44b
+en distance
+gr η απόσταση
+pos n
+
+uuid ef5df05e-2be8-43bf-a231-a76eea064cbc
+en limited
+gr περιορισμένος
+pos adj
+
+uuid 3eb793ad-170b-4bed-9232-1e12db4fe298
+en landmark
+gr το αξιοθέατο
+pos n
+
+uuid 541570c1-356a-44e1-82c3-c058fe8da834
+en special
+gr ξεχωριστός
+gr ιδιαίτερος
+pos adj
+
+uuid 9c541410-2134-4651-a278-04eec97a42d7
+en flavor
+gr η γεύση
+pos n
+
+uuid 00053168-ea0b-4aac-ad65-72b86d24cacc
+en discrete
+gr διακριτικός
+pos adj
+
+uuid 31ef1b83-96e8-4b22-bfe9-1f5f1f4e8d69
+en even though
+gr παρόλο
+pos conj
+
+uuid 789bcc2a-45f9-4aab-b675-dbfc42fbcf3b
+en to refer
+gr αναφέρομαι
+pos v
