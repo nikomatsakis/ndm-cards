@@ -1,0 +1,45 @@
+uuid f8ee3f64-9ddc-44e5-9406-92d5024009be
+# υποκρίθηκα-- aoristos
+en to pretend
+gr υποκρίνομαι
+pos v
+
+uuid eefa1741-385e-4bad-8491-b6fa9d5e7b35
+# might be nice to connect passive voice here with active voice?
+en to be solved
+gr λύνομαι
+
+uuid 4999ae1d-90e2-472a-88a4-921bdec980de
+en to get dolled up
+gr στολίζομαι
+pos v
+
+uuid a8617615-a6b3-4e2e-ad02-672f245d34a7
+en to itch
+gr ξύνομαι
+pos v
+
+uuid 79f60b3c-c3a0-4dea-ac8e-1da249c7abfd
+en to get annoyed
+gr εκνευρίζομαι
+pos v
+
+uuid 3b0df2fe-3ae5-44ca-845c-f2b8334005c9
+en to sweep
+gr σκουπίζω
+pos v
+
+uuid b0c2ff38-66e3-4f18-86a1-56309def97a4
+en to wipe yourself
+gr σκουπίζομαι
+pos v
+
+uuid 1f4f2b30-0cda-477f-b326-02569b13a19e
+en to shave (someone else)
+gr ξυρίζω
+pos v
+
+uuid 51e96913-8c58-408f-a7e1-6cc841829906
+en to shave (yourself)
+gr ξυρίζομαι
+pos v
