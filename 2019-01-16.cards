@@ -1,0 +1,34 @@
+uuid 865873c4-3956-4cd1-a08a-7613bea5785a
+gr η έκταση
+en size, area
+pos n
+
+uuid 21298c91-e794-4b99-9193-7238e5042a46
+gr η στεριά
+en dryland
+pos n
+
+uuid e99b036b-c3aa-4673-9a51-c79669fd5df3
+gr επινοητικός
+en inventive
+pos adj
+
+uuid 3473cc07-53bc-4b18-86d5-74353953fd07
+gr δραστήριος
+en active, energetic
+pos adj
+
+uuid 2ba8607e-15be-48f1-8699-0e3e7d9b6ca4
+gr περιβάλλεται
+en landlocked
+pos adj
+
+uuid 25dde0bf-8d3d-4961-95b8-076a8870d213
+gr ηπειρωτικός
+en continental, on the mainland
+pos adj
+
+uuid 2ce87fb7-0048-4cfd-b15e-74ff225c119f
+gr ο χρησμός
+en oracle
+pos n
