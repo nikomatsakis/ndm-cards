@@ -12725,6 +12725,10 @@
                             date: "2019-01-31T10:16:59.224539Z",
                             result: Yes,
                         ),
+                        (
+                            date: "2019-06-09T11:07:15.502397700Z",
+                            result: Yes,
+                        ),
                     ],
                     Translate(
                         from: English,
